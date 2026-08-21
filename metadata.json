@@ -1,0 +1,8 @@
+{
+  "name": "Mulika — Ayurvedic Herbal Search & Manuscript Index",
+  "description": "A comprehensive search engine and digital library indexing Telugu Ayurvedic manuscripts and classic texts, with modern scientific cross-referencing, herb encyclopedia, ailment directory, and reader community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
